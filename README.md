@@ -1,3 +1,26 @@
+# Netflix Movie Data Analysis Python Project
+
+## Overview
+
+The "Netflix Movie Data Analysis" project focuses on exploring and analyzing a dataset of movies, with an emphasis on data cleaning, preprocessing, and visualization to uncover insights into genre distribution, vote averages, and popularity metrics.
+
+### Key Features:
+- Data Cleaning and Preprocessing: The dataset undergoes thorough cleaning to handle missing values and inconsistencies, ensuring accurate analysis.
+- Genre Distribution Analysis: The project examines the frequency of various genres within the dataset, identifying "Drama" as the most prevalent genre.
+- Vote Average Analysis: By analyzing vote averages, the project provides insights into the general reception of movies across different genres.
+- Popularity Assessment: The analysis highlights "Spider-Man: No Way Home" as the most popular movie in the dataset.
+- Data Visualization: Utilizing libraries such as Matplotlib and Seaborn, the project presents visualizations that illustrate genre frequencies, vote distributions, and the distribution of movie release years, with 2020 identified as the year with the highest number of releases.
+
+### Technologies Used:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+This analysis provides valuable insights into movie trends, preferences, and popularity, offering a comprehensive overview of the dataset's characteristics.
+
+## Code Analysis
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
